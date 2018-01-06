@@ -1,0 +1,33 @@
+/*
+selector {
+  property: value;
+}
+*/
+
+h1 {
+  color: #FF8000;
+  /*border-color: purple;
+  border-width: 5px;
+  border-style: solid;*/
+
+  border: 5px dashed red;
+}
+
+li {
+  color: rgb(100, 150, 100);
+}
+
+h4 {
+  color: purple;
+  background: rgb(255, 100, 80);
+}
+
+h3 {
+  color: rgba(11, 99, 150, .2);
+}
+
+body {
+  background: url(http://www.publicdomainpictures.net/pictures/210000/velka/natural-wood-grain-background-14903911355WD.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
